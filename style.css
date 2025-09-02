@@ -12,7 +12,21 @@ body{
 }
 section{
     background:white;
+    padding-left:1rem;
+    padding-right: 1rem;
 }
 ul{
     margin-left:2rem;
+}
+h1{
+    background: green;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    text-shadow: 0px 0px 10px greenyellow;
+}
+h1, h2{
+    margin-top: 2rem;
 }
