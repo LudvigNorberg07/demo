@@ -5,4 +5,14 @@
 }
 body{
     height:100dvh;
+    margin-left: auto;
+    margin-right: auto;
+    width:65%;
+    background: lightgray;
+}
+section{
+    background:white;
+}
+ul{
+    margin-left:2rem;
 }
